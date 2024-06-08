@@ -1,7 +1,7 @@
 ## Practicing Git Commands 
-to put this file in Git 
-Repository we need to GIT initialize on the terminal. it will initialise the folder as repository 
-…or create a new repository on the command line
+to put this file in Git /n
+Repository we need to GIT initialize on the terminal. it will initialise the folder as repository /n
+…or create a new repository on the command line /n
 echo "# PracticeGIT" >> README.md
 git init
 git add README.md
